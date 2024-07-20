@@ -63,8 +63,6 @@ From the word cloud analysis, we observe that positive users are emphasizing wor
 
 This section involves analyzing the emojis used in the YouTube comments. By computing the frequencies of each emoji, we can gain further insights into the emotions and sentiments expressed by users.
 
-### Now we have to compute frequencies of each & every emoji in "all_emojis_list"..
-
 ## Conclusions
 
 The final section of the notebook summarizes the key findings from the sentiment analysis, word cloud analysis, and emoji analysis. These insights can be valuable for understanding user sentiment and improving content strategy.
